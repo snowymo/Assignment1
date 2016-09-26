@@ -42,6 +42,7 @@ matrix:
     #         - libxmu-dev
     #         - libblas-dev
     #         - xorg-dev
+
     - os: osx
       compiler: clang
       script:
