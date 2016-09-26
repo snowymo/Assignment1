@@ -1,5 +1,5 @@
 # Graduate Computer Graphics, CSCI-GA 2270-001 Fall 2016
-
+[![Build Status](https://travis-ci.org/snowymo/Assignment1.svg?branch=master)](https://travis-ci.org/snowymo/Assignment1)
 [Website](https://github.com/danielepanozzo/cg)
 
 
